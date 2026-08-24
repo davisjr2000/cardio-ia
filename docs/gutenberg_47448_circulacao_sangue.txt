@@ -1,0 +1,409 @@
+PREFATORY NOTE
+
+The writings of William Harvey, as published by him, and the letters
+published as part of his works, are all in Latin. The passages from
+Harvey's works which appear in English in the present paper are in
+part translations by the late Dr. Willis, with changes, sometimes
+considerable, by the present writer. In large part, however, the
+translations from Harvey are not even based upon Dr. Willis's work,
+but have been made by the present writer directly from the original
+Latin. Naturally he assumes responsibility for whatever he prints
+in English to represent Harvey's words; and to attempt, in print,
+a more minute discrimination between his own work as a translator
+and that of Dr. Willis would be tedious and unprofitable. Whoever
+may wish to make such discrimination may readily do so, however,
+as, in the present paper, a reference is made by page and line in
+the case of each translated passage, not only to the Latin text of
+Harvey's _Opera Omnia_, published by the Royal College of Physicians
+of London in 1766, but also to Willis's English translation thereof,
+published by the Sydenham Society in 1847, and entitled "The Works
+of William Harvey, M.D." Such references to the Sydenham Society's
+edition are indispensable for another purpose, viz.: in order that
+to each translated passage from Harvey in the present paper a
+context in English may readily be given by the reader.
+
+It has seemed best that the various references to Harvey's Latin
+text should be made to that of the easily accessible _Opera Omnia_
+rather than to that of the rarer first editions of the several
+treatises. In the case of the passages quoted from the treatise _De
+Motu Cordis et Sanguinis in Animalibus_ and from the treatise _De
+Generatione Animalium_, the Latin of the _Opera Omnia_ has been
+collated by the present writer with that of the first editions.
+The first editions of the Exercises to Riolanus and of the various
+letters have not been accessible to him.
+
+Much use has here been made of Harvey's private lecture notes, first
+published in 1886 by the Royal College of Physicians of London.
+
+All the passages (except those from the Scriptures) quoted in the
+present paper from writers other than Harvey have been translated
+into English by the present writer directly from the original Greek
+text or the original Latin text, as the case may be.
+
+  JOHN G. CURTIS.
+
+EDITORIAL NOTE
+
+Professor Curtis, to whom I am indebted for much kindly help
+extended during a warm friendship of nearly thirty years, died
+September 20, 1913. One of his final requests was that his younger
+colleague arrange for the publication of the present paper, upon
+which its writer had been engaged for a period of several years
+and which happily was practically completed. This request, coming
+to me after the death of my friend, could be considered only as a
+command. It has, therefore, fallen to me to make a careful study of
+his text, to fill in with my own words occasional slight gaps, to
+make occasional verbal changes, to certify to the correctness of
+his numerous references, and to make the manuscript, written and in
+places rewritten many times with his own hand, ready for the press.
+This I have done with affection for his memory and with appreciation
+of his scholarly attainments. Dr. Curtis's work represents a more
+profound study of Harvey's ideas and comparison of them with those
+of the most important of Harvey's predecessors than has heretofore
+appeared. It is the work of one who from the background of the
+physiological science of to-day delighted in mastering the ideas of
+the fathers of modern physiology. If his work is to be summarized
+in a single sentence, it may be said that he has shown Harvey to
+be a disciple more of Aristotle than of Galen. Although Harvey
+had the courage and the originality to break away from him whose
+ideas had prevailed for fourteen centuries, and to find the truth
+in regard to the movement of the blood, he found much to approve in
+the master who had lived five hundred years before Galen. Harvey's
+true position in the world of physiological thought has not before
+been made known. Herein lies Professor Curtis's contribution to the
+history of his science.
+
+  FREDERIC S. LEE.
+
+  COLUMBIA UNIVERSITY,
+  June 1, 1915.
+
+CONTENTS
+
+                                                      PAGE
+
+  PREFATORY NOTE                                         v
+
+  EDITORIAL NOTE                                       vii
+
+  ILLUSTRATIONS                                         xi
+
+  CHAPTER I
+
+  HARVEY'S ATTITUDE TOWARD THE QUESTION OF THE USE OF
+        THE CIRCULATION                                  1
+
+  CHAPTER II
+
+  THE CIRCULATION AND THE FEEDING OF THE TISSUES         7
+
+  CHAPTER III
+
+  RESPIRATION AND THE CIRCULATION                       11
+
+  CHAPTER IV
+
+  THE CIRCULATION AND THE ARISTOTELIAN PRIMACY OF
+        THE HEART                                       42
+
+  CHAPTER V
+
+  PHYSICIANS _versus_ PHILOSOPHERS--HARVEY FOR THE
+        PHILOSOPHERS                                    55
+
+  CHAPTER VI
+
+  THE CIRCULATION AND THE PRIMACY OF THE BLOOD          64
+
+  CHAPTER VII
+
+  THE CAUSE OF THE HEART-BEAT                           79
+
+  CHAPTER VIII
+
+  HARVEY'S DELINEATION OF THE VENOUS RETURN             95
+
+  CHAPTER IX
+
+  THE BLOOD THE SEAT OF THE SOUL                       103
+
+  CHAPTER X
+
+  THE BLOOD THE INNATE HEAT                            116
+
+  CHAPTER XI
+
+  THE INNATE HEAT NOT DERIVED FROM ELEMENTAL FIRE      139
+
+  CHAPTER XII
+
+  THE CIRCULATION OF THE BLOOD AND THE CIRCULATION
+        OF THE HEAVENS                                 154
+
+  NOTES                                                159
+
+  INDEX                                                191
+
+ILLUSTRATIONS
+
+  Portrait of William Harvey by Cornelius Jonson   _Frontispiece_
+
+                                                     FACING PAGE
+
+  The Anatomical Theater at Padua                              2
+
+  Page 80, right, of Harvey's _Prelectiones_, with
+        transcript                                            42
+
+  The Title-page of the _Editio Princeps_ of Harvey's
+        _De Motu Cordis_                                      96
+
+HARVEY'S VIEWS ON THE USE OF THE CIRCULATION OF THE BLOOD
+
+CHAPTER I
+
+HARVEY'S ATTITUDE TOWARD THE QUESTION OF THE USE OF THE CIRCULATION
+
+It is a happy moment for a physiologist when the train which is
+bearing him across the luxuriant plain of Venetia stops at the cry
+of "Padova!" If he have not informed himself too thoroughly about
+the sights which he will see at the Paduan University, he will enjoy
+his own surprise when he is ushered into the Anatomical Theater of
+Fabricius ab Aquapendente--a room in which standing-places rise
+steeply, tier above tier, entirely around a small central oval pit.
+Looking down into this, as he leans upon the rail, the traveler
+will realize with sudden pleasure that William Harvey, when a
+medical student, may often have leaned upon the self-same rail to
+see Fabricius demonstrate the anatomy of man. The place looks fit
+to have been a nursery of object-teachers, for it is too small
+to hold a pompous _cathedra_; and the veteran to whose Latin the
+young Englishman listened must have stood directly beside the dead
+body. To an American, musing there alone, the closing years of the
+sixteenth century, the last years of Queen Elizabeth of England,
+which seem so remote to him when at home, are but as yesterday.
+
+Recent, indeed, in the history of medicine is the year 1602, when
+Harvey received his doctor's degree at Padua and returned to London;
+but for all that we are right in feeling that our day is far removed
+from his. The tireless progress of modern times has swept on at
+the charging pace; but in Harvey's time books were still a living
+force which had been written in days five and six times as far
+removed from the student of Padua as he from us. Galen, the Greek
+who practised medicine at imperial Rome in the second century of the
+Christian era; Aristotle, who had been the tutor of Alexander the
+Great five hundred years before Galen, when Rome was but a petty
+state warring with her Italian neighbors;--these ancients were still
+great working authorities in Harvey's day.[1]
+
+It is against this persistent glow of the Greek thought that
+Harvey stands out so vividly as the first great modern figure in
+physiology. But it rather heightens than lowers his achievement that
+it was by the ancient glow that he saw his way forward, admiring the
+past, but not dazzled by it. In his old age he bade a young student
+"goe to the fountain head and read Aristotle, Cicero, Avicenna";
+and in talk with the same youth Harvey called the moderns by a name
+so roughly contemptuous that it will not bear repeating.[2] Yet in
+his old age, in the very act of extolling the ancients, he wrote as
+follows:[3]--
+
+     "But while we acquiesce in their discoveries, and believe, such
+     is our sloth, that nothing further can be found out, the lively
+     acuteness of our genius languishes and we put out the torch
+     which they have handed on to us."
+
+[Illustration: The Anatomical Theatre at Padua, where William Harvey
+listened to the lectures of Fabricius ab Aquapendente.]
+
+It was in 1628, the year of his fiftieth birthday, that Harvey
+published, at Frankfort-on-the-Main, his famous Latin treatise
+entitled: "An Anatomical Exercise on the Motion of the Heart and
+Blood in Animals." A reader of to-day will be inclined to skim
+rapidly over the Introduction to this treatise and over much in
+the last three chapters; and probably he will take only a languid
+interest in the two brief Latin treatises which Harvey published in
+defense of the circulation, after more than twenty years of silence,
+in his seventy-first year, at Cambridge in 1649; these treatises
+being entitled: "Two Anatomical Exercises on the Circulation of the
+Blood, to Johannes Riolanus, Junior, of Paris."
+
+The demonstration of the circulation in the treatise of 1628 is so
+irresistible that the ancient strongholds of belief crash to the
+ground at that summons like the walls of Jericho, and it seems a
+waste of time to scan the fragments. But for all that, the edifice
+which had stood for more than thirteen centuries was a goodly
+structure; and whoever shall have read Aristotle and Galen at first
+hand and shall then return to Harvey, will read with interest what
+the same reader treated as a mere foil for the great demonstration;
+and will realize that the irresistible quality of the latter is
+shared by Galen's demonstration that blood is naturally contained
+in the arteries.[4] Moreover, it will be seen that if the Greek of
+the second century could, like Harvey, appeal to observation and
+experiment, the English physician of the Renaissance, the student
+of Cambridge and Padua, was an apt pupil of the Greeks. Harvey
+could, and frequently and naturally did, view things from a Greek
+and ancient standpoint when proof of their nature was unattainable.
+This is to be seen not only in his earlier and later exercises on
+the circulation, but also in his last work, his "Exercise on the
+Generation of Animals" with appended essays, published in Latin
+at London in 1652, in Harvey's seventy-third year, two years
+after the appearance of the exercises addressed to Riolanus. This
+treatise On Generation deals also at various points with the blood
+and the circulation, as do in addition Harvey's published Latin
+letters. We shall find, too, the same leaning upon the ancients
+as immediate precursors in thinking, if we turn back from the
+publications of Harvey's old age to the very first written words
+of his which we possess, private lecture notes jotted down by him
+in his thirty-seventh year for use in 1616--notes happily printed
+and published in 1886.[1] In these notes, written more than eleven
+years before the publication of his most famous treatise, he sets
+forth for the first time, though briefly, the circulation of the
+blood, that physiological truth which to my mind is completely
+and indisputably Harvey's own discovery. It is with Harvey as the
+interpreter, not the maker, of this discovery, that I shall venture
+to deal in this paper.
+
+In his old age the great discoverer recorded his own attitude, as an
+interpreter, in the following words:--
+
+     "That freedom which I freely concede to others, I demand with
+     good right for myself also; liberty, that is, in dealing with
+     obscure matters, to bring forward, to represent, the truth, that
+     which seems probable, until the falsity thereof shall clearly be
+     established."[5]
+
+In 1636, eight years after he had published the treatise which now
+seems so convincing, Harvey was in Nuremberg and wrote to Caspar
+Hofmann, M.D., a professor of repute who lived there, offering to
+demonstrate the circulation to him. In his letter Harvey quotes
+impatient words of his German colleague, which show that in the face
+of proof the circulation still seemed to some men of high standing
+too useless to be true. Harvey says to Hofmann:--
+
+     "You have been pleased to reproach me rhetorically and chastise
+     me tacitly as one who seems to you 'to accuse and condemn nature
+     of folly as well as error, and to impose the character of a
+     most stupid and lazy craftsman on her, since he would permit
+     the blood to relapse into rawness and to return repeatedly to
+     the heart to be concocted again; and, as often, to the body at
+     large to become raw again; and would permit nature to ruin the
+     made and perfected blood in order that she may have something to
+     do.'"[6]
+
+To this attack Harvey calmly rejoins as follows, speaking of the
+blood:--
+
+     "As to its concoction and the causes of this its motion and
+     circulation, especially their final cause, I have said nothing,
+     indeed have put the subject by entirely and deliberately; as you
+     will find set down in plain words and otherwise if you will be
+     pleased to read again chapters VIII and IX."[7]
+
+More than twelve years later still, in defending the circulation
+against Riolanus, Harvey finds it necessary to say:--
+
+     "Those who repudiate the circulation because they see neither
+     the efficient nor the final cause of it, and who exclaim '_Cui
+     bono?_'--(As to which I have brought forward nothing so far;
+     it remains to be shown)--plainly ought to inquire as to its
+     existence before inquiring why it exists; for from the facts
+     which meet us in the circulation regarded as existing, its uses
+     and objects are to be sought."[8]
+
+In spite, however, of these disclaimers of formal position Harvey
+had repeatedly intimated, by the way, what was crossing his mind
+as to the meaning of the circulation, to set forth the proofs of
+which had been his main concern. Even in the eighth chapter to which
+Harvey appealed in support of his disclaimer Hofmann could have
+pointed to two passages as affording from his standpoint a basis for
+his attack. In the second and shorter of these two passages Harvey
+says of a vein as compared with an artery:--
+
+     "This is a way from the heart, that to the heart; that contains
+     cruder blood, effete and rendered unfit for nutrition; this,
+     concocted, perfect, alimentary blood."[9]
+
+Harvey, indeed, as we shall find abundant evidence, was both an
+observer and a speculator. In the latter rôle he was not far removed
+from his physiological predecessors of two thousand years; as an
+observer it was his great merit to lead the physiologists of his
+time and to point out to those of all later centuries the path which
+they must follow.
+
+CHAPTER II
+
+THE CIRCULATION AND THE FEEDING OF THE TISSUES
+
+That Harvey frequently took refuge in speculation need excite no
+surprise. In the seventeenth century, even with his extraordinary
+contributions of observed fact to the knowledge of the circulation
+of the blood, the paucity of physiological knowledge in general and
+of experimental methods was so great that at every turn a thinking
+man was tempted to fill in the gaps with that which was beyond his
+powers of ocular demonstration. Contemplation of the circulation,
+indeed, led Harvey into contemplation of widely diverse problems of
+the life process. The feeding of the tissues, the significance of
+respiration, the cause of the heart-beat, the relative importance of
+the heart and the blood in the bodily hierarchy, the bodily heat and
+its source, and the seat of the soul--to these and other topics he
+gave much attention, and these we must consider. Let us begin with
+the circulation and its relation to the feeding of the tissues.
+
+In the chapter of Harvey's book which follows at once upon the brief
+qualitative statement quoted at the end of our last chapter, Harvey
+himself brings us face to face with the difficult quantitative
+question raised by his triumphant proof of the circulation. He
+says:--
+
+     "The blood under the influence of the arterial pulse enters and
+     is impelled in a continuous, equable, and incessant stream into
+     every part and member of the body, in much larger quantity than
+     were sufficient for nutrition or than the whole mass of fluids
+     could supply."[10]
+
+Here we see that the rapid renewal of the blood in "every part and
+member of the body" presented itself to Harvey's own mind as calling
+for some other explanation than the simple feeding of the tissues.
+The question of "_cui bono_" which his discovery raised is still but
+incompletely answered; in Harvey's day it was almost unanswerable.
+In dealing from time to time with its main features he himself, as
+we shall see, could only bring forward inadequate observations and
+shift his ground from one erroneous doctrine to another. In justice
+to his opponents, who seem to us so unreasonable, let us remember
+how prodigious this new question of "_cui bono_" must have seemed
+when the circulation itself was a novelty. Let us remember also
+that for nearly two thousand years the tissues had been held to
+feed themselves tranquilly out of the contents of the vessels in a
+way fitly expressed by the old simile of irrigation ditches in a
+garden--a simile which Aristotle and Galen had borrowed in turn from
+Plato.[11]
+
+But if Harvey saw only too well that the feeding of the tissues
+could not explain the circulation, he had at least seen plainly how
+the doctrine of the circulation clarified the ancient but current
+doctrine as to the absorption of the digested food. The portal
+vein had been accepted as the route of this absorption. No doubt
+both Aristotle and Galen had seen its ruddy contents; at any rate
+both had concluded that the chyle was changed within the portal
+vein into a crude approximation to blood.[12] That the same vessel
+should carry to the liver altered chyle, and from the liver blood
+to nourish the stomach and intestines, had involved a difficulty
+which Galen had met with characteristic cleverness. He had cited
+in support of such a reversal of flow the flow of the bile into
+the gall-bladder and out by the same duct, the movement of food
+and vomit into and out of the stomach by the œsophagus, and the
+relation of the _os uteri_ to impregnation and parturition.[13]
+Harvey says:--
+
+     "For the blood entering the mesentery by the cœliac
+     artery and the superior and inferior mesenteries proceeds
+     to the intestines, from which along with the chyle that has
+     been attracted into the veins it returns by their numerous
+     ramifications into the vena portæ of the liver, and from
+     this into the vena cava, and this in such wise that the
+     blood in these veins has the same colour and consistency as
+     in other veins, in opposition to what many believe to be
+     the fact. Nor need we hold the improbable belief that two
+     inconveniently opposed movements take place in the whole
+     capillary ramification, namely, movement of the chyle upward,
+     of the blood downward. Is not the thing rather arranged as it
+     is by the consummate providence of nature? For were the ch
