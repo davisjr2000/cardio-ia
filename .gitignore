@@ -1,5 +1,4 @@
 images/
-data/*.csv
 __pycache__/
 *.pyc
 .DS_Store
