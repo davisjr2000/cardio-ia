@@ -84,6 +84,30 @@ a ordem de leitura do texto.
 
 ## Imagens de ECG
 
-> **Pendente:** aguardando token Kaggle (`~/.kaggle/kaggle.json`).
-> Dataset planejado: `evilspirit05/ecg-analysis` (Kaggle).
-> Destino: `images/` (120 imagens, balanceadas por categoria).
+| Campo       | Valor |
+|-------------|-------|
+| Nome        | ECG Image Data |
+| Autor       | erhmrai |
+| Fonte       | Kaggle |
+| Ref Kaggle  | `erhmrai/ecg-image-data` |
+| URL         | https://www.kaggle.com/datasets/erhmrai/ecg-image-data |
+| Licença     | CC BY-NC-SA 4.0 |
+| Acesso      | 2026-08-24 |
+| Destino     | `images/` (subpastas por categoria) |
+| Total       | 120 imagens selecionadas de ~124.000 disponíveis |
+| Tamanho     | 1,1 MB (subset) |
+
+### Categorias (padrão AAMI EC57 / MIT-BIH)
+
+| Pasta | Código | Significado | Imagens selecionadas | Total disponível |
+|-------|--------|-------------|----------------------|------------------|
+| `N_normal/` | N | Batimento normal (ritmo sinusal normal, BRE, BRD) | 20 | 94.635 |
+| `S_supraventricular/` | S | Batimento ectópico supraventricular (extrassístole atrial) | 20 | 2.779 |
+| `V_ventricular/` | V | Batimento ectópico ventricular (extrassístole ventricular) | 20 | 7.236 |
+| `F_fusao/` | F | Batimento de fusão (ventricular + normal) | 20 | 803 |
+| `Q_inclassificavel/` | Q | Batimento inclassificável / artefato | 20 | 8.039 |
+| `M_infarto_miocardio/` | M | Infarto do miocárdio | 20 | 10.506 |
+
+**Nota:** seleção aleatória com `random.seed(42)`, garantindo reprodutibilidade.
+O dataset original (858 MB) não foi incluído no repositório git (`images/` está no `.gitignore`).
+Fazer upload de `images/` manualmente para o Google Drive.
