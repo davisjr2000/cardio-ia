@@ -6,9 +6,11 @@ Uso:
     python scripts/baixar_dataset.py
 """
 
-import os
+from pathlib import Path
 import pandas as pd
 from ucimlrepo import fetch_ucirepo
+
+RAIZ = Path(__file__).resolve().parent.parent
 
 COLUNA_MAP = {
     "age":      "idade",
@@ -38,8 +40,8 @@ def main():
     df = pd.concat([hd.data.features, hd.data.targets], axis=1)
     df = df.rename(columns=COLUNA_MAP)
 
-    os.makedirs("data", exist_ok=True)
-    out = os.path.join("data", "pacientes_cardiacos.csv")
+    out = RAIZ / "data" / "pacientes_cardiacos.csv"
+    out.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(out, index=False)
     print(f"Salvo em {out}")
 
@@ -58,8 +60,8 @@ def main():
     print(df["sexo"].map(sexo_map).value_counts().to_string())
 
     print("\n=== Distribuição por faixa etária ===")
-    df["faixa_etaria"] = pd.cut(df["idade"], bins=FAIXAS, labels=LABELS, right=False)
-    print(df["faixa_etaria"].value_counts().sort_index().to_string())
+    faixa_etaria = pd.cut(df["idade"], bins=FAIXAS, labels=LABELS, right=False)
+    print(faixa_etaria.value_counts().sort_index().to_string())
 
 
 if __name__ == "__main__":
